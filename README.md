@@ -31,4 +31,4 @@ Aqui esta o link de meu protfólio acessível a todos :
 Os créditos do bootstrap usados neste portfólio são advindas desse site :https://bootstrapmade.com/bootstrap-portfolio-templates/
 
 # Motivo de Criação de um novo Mapa de carreira:
-Resolvi recriar um novo mapa de carreira que fiz em 2024 pelo instituto Proa a fim de organizar mais e trabalhar mais minhas habilidades e conhecimentos em Bootstrap e assim apresentar meu perfil a todos empregadores e todos que quiserem se inspirar em meus projetos. Pretendo atualizar mais meus projetos a medida que for aprendendo e evoluindo
+Resolvi recriar um novo mapa de carreira que fiz em 2024 pelo instituto Proa a fim de organizar mais e trabalhar mais minhas habilidades e conhecimentos em Bootstrap e assim apresentar meu perfil a todos empregadores e todos que quiserem se inspirar em meus projetos. Pretendo atualizar mais meus projetos a medida que for aprendendo e evoluindo.
